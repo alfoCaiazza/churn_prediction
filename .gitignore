@@ -1,0 +1,6 @@
+# Virtual Environment
+.churn
+
+# Dataset Folder
+data/spotify-dataset-for-churn-analysis.zip
+data/spotify_churn_dataset.csv
