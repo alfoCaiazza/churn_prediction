@@ -5,3 +5,9 @@
 data/spotify-dataset-for-churn-analysis.zip
 data/spotify_churn_dataset.csv
 data/spotify_churn_dataset_tranformed.csv
+data/splits/*
+
+# Tuning cache path
+src/models/tuning
+src/models/keras_files
+data/spotify_churn_dataset_balanced.csv
