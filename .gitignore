@@ -2,4 +2,4 @@
 data/dataframes
 
 # Tuning cache path
-src/models/*
+models/tuner_trials
